@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/TugberkAta/Nevermore-Skateboards">
+  <a href="https://github.com/HamzaAhmedSheikh/Nevermore-Skateboards">
     <img src="public/ravenWhite.svg" alt="Logo" width="80" height="80">
   </a>
 
@@ -129,13 +129,5 @@ Don't forget to give the project a star! Thanks again!
 5. Open a Pull Request
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- CONTACT -->
-
-## Contact
-
-Tuğberk Ata - atatugberkwork@gmail.com
-
-Project Link: [https://github.com/TugberkAta/Nevermore-Skateboards](https://github.com/TugberkAta/Nevermore-Skateboards)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
