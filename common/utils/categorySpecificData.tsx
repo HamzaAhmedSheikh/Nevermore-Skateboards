@@ -1,0 +1,41 @@
+export const CategorySizeData = {
+  Rollerblade: [
+    "37",
+    "37.5",
+    "38",
+    "38.5",
+    "39",
+    "39.5",
+    "40",
+    "41",
+    "42",
+    "42.5",
+    "43",
+    "44",
+    "45",
+  ],
+  Shoes: [
+    "37",
+    "37.5",
+    "38",
+    "38.5",
+    "39",
+    "39.5",
+    "40",
+    "41",
+    "42",
+    "42.5",
+    "43",
+    "44",
+    "45",
+  ],
+  Skateboards: ["7.25", "8.0", "8.25", "8.5", "9.0", "9.5"],
+  Snowboards: ["143", "147", "151", "155", "158", "159"],
+};
+
+export const CategoryBrandData = {
+  Rollerblade: ["Impala Skate", "Rio"],
+  Shoes: ["Converse", "Adidas", "Vans", "Nike"],
+  Skateboards: ["Almost", "Creature", "Impala Skate", "Globe", "Arbor"],
+  Snowboards: ["Salomon", "Rossignol", "Arbor", "Chamonix"],
+};
